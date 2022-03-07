@@ -14,3 +14,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-knight&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/Lancelot-knight/github-readme-stats)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelot-knight&theme=tokyonight&show_icons=true)](https://github.com/Lancelot-knight/github-readme-stats)  
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+
+# Контакты:
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
+<img src="https://www.svgrepo.com/show/242392/telegram.svg" height="32">
+
+</img>
