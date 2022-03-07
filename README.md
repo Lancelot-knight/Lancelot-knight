@@ -11,5 +11,5 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # Дополнительная информация:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-knight&layout=compact)](https://github.com/Lancelot-knight/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-knight&layout=compact&theme=dark&show_icons=true)](https://github.com/Lancelot-knight/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelot-knight&theme=dark&show_icons=true)](https://github.com/Lancelot-knight/github-readme-stats)
