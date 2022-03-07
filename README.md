@@ -12,4 +12,4 @@
 
 # Дополнительная информация:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-knight&layout=compact)](https://github.com/Lancelot-knight/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelot-knight)](https://github.com/Lancelot-knight/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lancelot-knight&theme=radical)](https://github.com/Lancelot-knight/github-readme-stats)
