@@ -16,7 +16,6 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 # Контакты:
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Daniil</a> 
 <img src="https://www.svgrepo.com/show/242392/telegram.svg" height="32">
 
 </img>
